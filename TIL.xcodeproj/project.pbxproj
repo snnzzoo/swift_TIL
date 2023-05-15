@@ -17,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BE2723A22A12611400E2F938 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		BE74667D2A124C7B00A733E3 /* TIL.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TIL.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE7466802A124C7B00A733E3 /* TILApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TILApp.swift; sourceTree = "<group>"; };
 		BE7466822A124C7B00A733E3 /* VariableType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VariableType.swift; sourceTree = "<group>"; };
@@ -80,6 +81,7 @@
 				BE7466822A124C7B00A733E3 /* VariableType.swift */,
 				BE7466902A12567B00A733E3 /* VariableOperator.swift */,
 				BE7466922A12585200A733E3 /* CollectionType.swift */,
+				BE2723A22A12611400E2F938 /* README.md */,
 			);
 			path = Variable;
 			sourceTree = "<group>";
