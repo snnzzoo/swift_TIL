@@ -1,4 +1,4 @@
-#  🧡 Today I Learned Swift
+#  🧡 Today I Learned - Swift
 
 
 ### 🗓️ 기간
