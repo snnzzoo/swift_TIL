@@ -33,8 +33,8 @@ struct VariableOperator: View {
     }
 }
 
-struct VariableOperator_Previews: PreviewProvider {
-    static var previews: some View {
-        VariableOperator()
-    }
-}
+//struct VariableOperator_Previews: PreviewProvider {
+//    static var previews: some View {
+//        VariableOperator()
+//    }
+//}

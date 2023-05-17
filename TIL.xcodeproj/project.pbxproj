@@ -17,6 +17,7 @@
 		BE74668F2A1255C000A733E3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE74668E2A1255C000A733E3 /* ContentView.swift */; };
 		BE7466912A12567B00A733E3 /* VariableOperator.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7466902A12567B00A733E3 /* VariableOperator.swift */; };
 		BE7466932A12585200A733E3 /* CollectionType.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7466922A12585200A733E3 /* CollectionType.swift */; };
+		BEC9889A2A1500CF00829FBF /* Enum.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC988992A1500CF00829FBF /* Enum.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		BE74668E2A1255C000A733E3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BE7466902A12567B00A733E3 /* VariableOperator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VariableOperator.swift; sourceTree = "<group>"; };
 		BE7466922A12585200A733E3 /* CollectionType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionType.swift; sourceTree = "<group>"; };
+		BEC988992A1500CF00829FBF /* Enum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Enum.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 				BE2723A42A14E46C00E2F938 /* Conditional.swift */,
 				BE2723A62A14E63000E2F938 /* Loop.swift */,
 				BE1854612A14FD1E00123F58 /* Function.swift */,
+				BEC988992A1500CF00829FBF /* Enum.swift */,
 			);
 			path = Section1;
 			sourceTree = "<group>";
@@ -172,6 +175,7 @@
 				BE2723A72A14E63000E2F938 /* Loop.swift in Sources */,
 				BE7466832A124C7B00A733E3 /* VariableType.swift in Sources */,
 				BE7466812A124C7B00A733E3 /* TILApp.swift in Sources */,
+				BEC9889A2A1500CF00829FBF /* Enum.swift in Sources */,
 				BE74668F2A1255C000A733E3 /* ContentView.swift in Sources */,
 				BE7466912A12567B00A733E3 /* VariableOperator.swift in Sources */,
 				BE1854622A14FD1E00123F58 /* Function.swift in Sources */,

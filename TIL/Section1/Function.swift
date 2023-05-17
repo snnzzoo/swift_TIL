@@ -46,8 +46,8 @@ struct MyFunction: View {
 // 코드를 따로 빼서 쓰기 때문에 가독성이 올라간다.
 
 
-struct MyFunction_Previews: PreviewProvider {
-    static var previews: some View {
-        MyFunction()
-    }
-}
+//struct MyFunction_Previews: PreviewProvider {
+//    static var previews: some View {
+//        MyFunction()
+//    }
+//}

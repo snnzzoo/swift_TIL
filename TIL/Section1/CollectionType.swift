@@ -39,8 +39,8 @@ struct CollectionType: View {
     }
 }
 
-struct CollectionType_Previews: PreviewProvider {
-    static var previews: some View {
-        CollectionType()
-    }
-}
+//struct CollectionType_Previews: PreviewProvider {
+//    static var previews: some View {
+//        CollectionType()
+//    }
+//}

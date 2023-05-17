@@ -19,8 +19,8 @@ struct Conditional: View {
     }
 }
 
-struct Conditional_Previews: PreviewProvider {
-    static var previews: some View {
-        Conditional()
-    }
-}
+//struct Conditional_Previews: PreviewProvider {
+//    static var previews: some View {
+//        Conditional()
+//    }
+//}

@@ -19,8 +19,8 @@ struct VariableType: View {
     }
 }
 
-struct VariableType_Previews: PreviewProvider {
-    static var previews: some View {
-        VariableType()
-    }
-}
+//struct VariableType_Previews: PreviewProvider {
+//    static var previews: some View {
+//        VariableType()
+//    }
+//}
