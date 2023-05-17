@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BE1854622A14FD1E00123F58 /* Function.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE1854612A14FD1E00123F58 /* Function.swift */; };
 		BE2723A52A14E46C00E2F938 /* Conditional.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE2723A42A14E46C00E2F938 /* Conditional.swift */; };
 		BE2723A72A14E63000E2F938 /* Loop.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE2723A62A14E63000E2F938 /* Loop.swift */; };
 		BE7466812A124C7B00A733E3 /* TILApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7466802A124C7B00A733E3 /* TILApp.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BE1854612A14FD1E00123F58 /* Function.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Function.swift; sourceTree = "<group>"; };
 		BE2723A22A12611400E2F938 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		BE2723A32A12616300E2F938 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		BE2723A42A14E46C00E2F938 /* Conditional.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Conditional.swift; sourceTree = "<group>"; };
@@ -90,6 +92,7 @@
 				BE2723A22A12611400E2F938 /* README.md */,
 				BE2723A42A14E46C00E2F938 /* Conditional.swift */,
 				BE2723A62A14E63000E2F938 /* Loop.swift */,
+				BE1854612A14FD1E00123F58 /* Function.swift */,
 			);
 			path = Section1;
 			sourceTree = "<group>";
@@ -171,6 +174,7 @@
 				BE7466812A124C7B00A733E3 /* TILApp.swift in Sources */,
 				BE74668F2A1255C000A733E3 /* ContentView.swift in Sources */,
 				BE7466912A12567B00A733E3 /* VariableOperator.swift in Sources */,
+				BE1854622A14FD1E00123F58 /* Function.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
