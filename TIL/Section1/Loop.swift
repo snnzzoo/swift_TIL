@@ -1,6 +1,6 @@
 import SwiftUI
 
-struct Iteration: View {
+struct Loop: View {
     var body: some View {
         
         let farmAnimals = ["🐮", "🐔", "🐑", "🐶", "🐱"]
@@ -25,8 +25,8 @@ struct Iteration: View {
     }
 }
 
-struct Iteration_Previews: PreviewProvider {
+struct Loop_Previews: PreviewProvider {
     static var previews: some View {
-        Iteration()
+        Loop()
     }
 }
