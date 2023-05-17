@@ -1,8 +1,10 @@
-#  📝 Swift Today I Learned
+#  🧡 Today I Learned - Swift
 
 
-### 기간
+### 🗓️ 기간
 05.15.2023 - 
 
-### Daily Record
+<br>
+
+### 📝 Daily Record
  
