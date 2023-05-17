@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		BE2723A52A14E46C00E2F938 /* Conditional.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE2723A42A14E46C00E2F938 /* Conditional.swift */; };
+		BE2723A72A14E63000E2F938 /* Iteration.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE2723A62A14E63000E2F938 /* Iteration.swift */; };
 		BE7466812A124C7B00A733E3 /* TILApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7466802A124C7B00A733E3 /* TILApp.swift */; };
 		BE7466832A124C7B00A733E3 /* VariableType.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7466822A124C7B00A733E3 /* VariableType.swift */; };
 		BE7466852A124C7C00A733E3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BE7466842A124C7C00A733E3 /* Assets.xcassets */; };
@@ -21,6 +22,7 @@
 		BE2723A22A12611400E2F938 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		BE2723A32A12616300E2F938 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		BE2723A42A14E46C00E2F938 /* Conditional.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Conditional.swift; sourceTree = "<group>"; };
+		BE2723A62A14E63000E2F938 /* Iteration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Iteration.swift; sourceTree = "<group>"; };
 		BE74667D2A124C7B00A733E3 /* TIL.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TIL.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE7466802A124C7B00A733E3 /* TILApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TILApp.swift; sourceTree = "<group>"; };
 		BE7466822A124C7B00A733E3 /* VariableType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VariableType.swift; sourceTree = "<group>"; };
@@ -87,6 +89,7 @@
 				BE7466922A12585200A733E3 /* CollectionType.swift */,
 				BE2723A22A12611400E2F938 /* README.md */,
 				BE2723A42A14E46C00E2F938 /* Conditional.swift */,
+				BE2723A62A14E63000E2F938 /* Iteration.swift */,
 			);
 			path = Section1;
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 			files = (
 				BE2723A52A14E46C00E2F938 /* Conditional.swift in Sources */,
 				BE7466932A12585200A733E3 /* CollectionType.swift in Sources */,
+				BE2723A72A14E63000E2F938 /* Iteration.swift in Sources */,
 				BE7466832A124C7B00A733E3 /* VariableType.swift in Sources */,
 				BE7466812A124C7B00A733E3 /* TILApp.swift in Sources */,
 				BE74668F2A1255C000A733E3 /* ContentView.swift in Sources */,
