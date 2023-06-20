@@ -23,7 +23,7 @@ let weight: Double = 51.7
 let hasJob: Bool = false // true 또는 false
 
 VStack {
-    Text("Hello, \(name)") // Hello, Sunjoo
+    Text("Hello, \(name)") // Hello, Sunjoo5
     Text("age: \(age)") // age: 25
     Text("height: \(height)") // height: 161.500000
     Text("weight: \(weight)") // weight: 51.700000
