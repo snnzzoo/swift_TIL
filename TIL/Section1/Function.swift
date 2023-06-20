@@ -14,6 +14,7 @@ struct MyFunction: View {
             Button {
                 isChangedMind.toggle()
                 
+                // 조건문 사용
 //                if isChangedMind {
 //                    myMind = "always open"
 //                } else {
