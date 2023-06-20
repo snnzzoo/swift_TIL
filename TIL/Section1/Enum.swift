@@ -16,8 +16,8 @@ struct MyEnum: View {
         switch menu {
         case .pork, .beef:
             Text("오늘 메뉴는 다리가 4개인 동물")
-            //        case .beef:
-            //            Text("오늘 메뉴는 소고기")
+            //                    case .beef:
+            //                        Text("오늘 메뉴는 소고기")
         case .chicken:
             Text("오늘 메뉴는 닭고기")
         case .shirimp:
@@ -27,7 +27,7 @@ struct MyEnum: View {
         }
     }
     
-    //    @State var menu: Menu = .beef
+    //    @State var menu: Menu = .shirimp
     //
     //    // 열거형 enum : 선택지를 만들어준다.
     //    // 메뉴가 될 수 있는 것들
