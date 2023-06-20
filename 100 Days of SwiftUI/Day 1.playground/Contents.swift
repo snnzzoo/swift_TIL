@@ -1,7 +1,7 @@
 import UIKit
 
 var greeting = "Hello, playground"
-
+greeting = "Hi Hello"
 
 let singer = "frank sinatra"
 let singerLength = singer.count
@@ -16,6 +16,7 @@ must a man walk down
 before you call him a man
 """
 
+print(greeting)
 print(singer)
 print(singer.count) // 띄어쓰기 포함
 print(singerLength)
